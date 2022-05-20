@@ -2,6 +2,7 @@
    - [C++ native compiler](https://github.com/andyarvanitis/purescript-native/tree/cpp)
    - [Lambda Lantern](https://github.com/lettier/lambda-lantern)
    - [How to Create 3D Games with PureScript Native and C++](https://medium.com/@lettier/how-to-create-3d-games-with-purescript-and-cpp-faabf8f27fe6)
+   - [Software Transactional Memory in GCC](https://en.cppreference.com/w/cpp/language/transactional_memory)
    - Tetris in PureScript with [pscpp](https://github.com/andyarvanitis/purescript-native/blob/cpp/README-cpp.md) and [Raylib](https://www.raylib.com/)
      - Create bindings for Raylib
      - Use some of the tricks from [Tetris from Scratch](https://www.youtube.com/watch?v=8OK8_tHeCIA), esp. [Rotate function](https://github.com/OneLoneCoder/videos/blob/master/OneLoneCoder_Tetris.cpp#L70)
