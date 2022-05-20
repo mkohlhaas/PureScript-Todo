@@ -1,5 +1,6 @@
 1. PureScript Native Compiler C++
    - [C++ native compiler](https://github.com/andyarvanitis/purescript-native/tree/cpp)
+     - Update to latest PureScript version
    - [Lambda Lantern](https://github.com/lettier/lambda-lantern)
    - [How to Create 3D Games with PureScript Native and C++](https://medium.com/@lettier/how-to-create-3d-games-with-purescript-and-cpp-faabf8f27fe6)
    - [Software Transactional Memory in GCC](https://en.cppreference.com/w/cpp/language/transactional_memory)
@@ -13,7 +14,7 @@
    - [C++ Concurrency in Action](https://www.manning.com/books/c-plus-plus-concurrency-in-action-second-edition)
 1. SIMD/AVX/FMA
    - Check availability on Linux: `/bin/lscpu`
-   - [C++ wrappers for SIMD intrinsics](https://github.com/xtensor-stack/xsimd)
+   - [xsimd: C++ wrappers for SIMD intrinsics](https://github.com/xtensor-stack/xsimd)
    - [Check that vectorization is actually being used](https://eigen.tuxfamily.org/index.php?title=FAQ#How_can_I_check_that_vectorization_is_actually_being_used.3F)
 1. Youtube
    - [WolfSound](https://www.youtube.com/c/WolfSoundAudio)
